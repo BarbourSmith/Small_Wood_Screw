@@ -24,8 +24,8 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 2.4,
-          "currentEquation": "2.4"
+          "ioValue": 3,
+          "currentEquation": "3"
         }
       ]
     },
@@ -116,7 +116,7 @@
         {
           "name": "Shape 2",
           "ioValue": {
-            "geometry": "circle-1.2",
+            "geometry": "circle-1.5",
             "dimension": "2D",
             "tags": [],
             "plane": {
@@ -157,7 +157,7 @@
         {
           "name": "Shape 1",
           "ioValue": {
-            "geometry": "loft-move-circle-2.5-0-0-0-circle-1.2-{\"origin\":[0,0,1.5],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}",
+            "geometry": "loft-move-circle-2.5-0-0-0-circle-1.5-{\"origin\":[0,0,1.5],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}",
             "dimension": "3D",
             "tags": [],
             "plane": {
@@ -184,7 +184,7 @@
         {
           "name": "Shape 2",
           "ioValue": {
-            "geometry": "extrude-circle-1.2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--14",
+            "geometry": "extrude-circle-1.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--14",
             "dimension": "3D",
             "tags": [],
             "plane": {
