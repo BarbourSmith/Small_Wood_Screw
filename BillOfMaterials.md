@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|5x14mm wood screw|1|$0.01|www.example.com|
+|Total: |1|$0.01| |
